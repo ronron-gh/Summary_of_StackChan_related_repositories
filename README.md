@@ -1,0 +1,2 @@
+# Summary_of_StackChan_related_repositories
+今までに登録したｽﾀｯｸﾁｬﾝ関連リポジトリのまとめです。
