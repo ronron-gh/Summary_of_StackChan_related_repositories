@@ -20,7 +20,7 @@
 | 3 | [M5CoreS3_FaceRecognition](https://github.com/ronron-gh/M5CoreS3_FaceRecognition) | CoreS3の内蔵カメラで顔検出及び顔認識するテストプログラム。| CoreS3 | - | [〇](https://twitter.com/motoh_tw/status/1662099298002280448) | - |
 | 4 | [M5Unified_StackChan_ ChatGPT_Google_CoreS3_ FaceDetectExample](https://github.com/ronron-gh/M5Unified_StackChan_ChatGPT_Google_CoreS3_FaceDetectExample) | robo8080さんのAIｽﾀｯｸﾁｬﾝ(多言語対応)に、顔検出を組み込んだプログラム。| CoreS3 | 〇 | [〇](https://twitter.com/motoh_tw/status/1663206042359169024) | [AIｽﾀｯｸﾁｬﾝ](https://github.com/robo8080/M5Unified_StackChan_ChatGPT_Google) |
 | 5 | [AI_StackChan2_DevCam](https://github.com/ronron-gh/AI_StackChan2_DevCam) | robo8080さんのAIｽﾀｯｸﾁｬﾝ2 (VoiceVox)に、顔検出を組み込んだプログラム。| CoreS3 | 〇 | - | [AIｽﾀｯｸﾁｬﾝ2](https://github.com/robo8080/AI_StackChan2) |
-| 6 | [AI_StackChan2_FuncCall](https://github.com/ronron-gh/AI_StackChan2_FuncCall) | OpenAIのFunction Callingを使って、robo8080さんのAIｽﾀｯｸﾁｬﾝ2に便利なタイマー機能を追加しました。| Core2 / CoreS3 | - | [〇](https://twitter.com/motoh_tw/status/1675171545533251584) | [AIｽﾀｯｸﾁｬﾝ2](https://github.com/robo8080/AI_StackChan2) |
+| 6 | [AI_StackChan2_FuncCall](https://github.com/ronron-gh/AI_StackChan2_FuncCall) | OpenAIのFunction Callingを使って、robo8080さんのAIｽﾀｯｸﾁｬﾝ2に便利なタイマー機能を追加しました。| Core2 / CoreS3 | 〇<br>(Core2のみ) | [〇](https://twitter.com/motoh_tw/status/1675171545533251584) | [AIｽﾀｯｸﾁｬﾝ2](https://github.com/robo8080/AI_StackChan2) |
 
 
 
